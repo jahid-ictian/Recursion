@@ -24,7 +24,7 @@ int main()
        sum+=i;
     }
     printf("\n");
-    //printf("sum= %d\n",sum);
+    printf("sum= %d\n",sum);
     printf("\nRecursion: \n");
     sum=getsum(1);
     printf("Sum = %d\n",sum);
