@@ -18,7 +18,7 @@ int main()
     scanf("%d",&N);
     printf("Iteration: \n");
     sum=0;
-    for(i+1;i<+N;i++)
+    for(i=1;i<=N;i++)
     {
        printf("%d",i);
        sum+=i;
