@@ -1,4 +1,3 @@
-//4*1+4*2+4*3+4*4.....up to n'th term
 #include<stdio.h>
 int N;
 int getsum(int i)
